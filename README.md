@@ -140,24 +140,3 @@ The **Custom CNN** achieved the best overall performance.
 * Handle class imbalance (SMOTE, weighted loss)
 * Deploy as a mobile/web application
 * Real-time disease detection using IoT
-
----
-
-## 👨‍💻 Author
-
-**Satya Krishna Eluri**
-MSc Computer Science
-
----
-
-## 📜 License
-
-This project is for academic and research purposes.
-
----
-
-If you want, I can also:
-
-* Add **installation steps & requirements.txt**
-* Customize it for **your exact GitHub repo structure**
-* Or make it more **industry-level (for job portfolio)**
