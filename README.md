@@ -1,7 +1,3 @@
-Here’s a clean, professional **`README.md`** tailored to your project based on your dissertation content . You can copy and paste this directly into GitHub.
-
----
-
 # 🌽 Maize Leaf Disease Detection using Deep Learning
 
 ## 📌 Overview
